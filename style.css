@@ -75,6 +75,10 @@ body{
     padding: 10px;
     border: none;
     box-shadow: 0 5px 2px hsl(154, 62%, 49%);
+    cursor: pointer;
+}
+.cta-form button:hover{
+    background-color: hsl(154, 89%, 63%);
 }
 
 label{
